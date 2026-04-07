@@ -15,7 +15,7 @@ public class SortedListGUI extends JFrame {
         setSize(400, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
-        
+
         JPanel topPanel = new JPanel();
         inputField = new JTextField(15);
 
